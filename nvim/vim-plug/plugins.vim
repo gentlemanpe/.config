@@ -9,8 +9,8 @@ endif
 call plug#begin('~/.config/nvim/autoload/plugged')
 
    " Dracula colorscheme
-   " Plug 'dracula/vim'
-   Plug 'joshdick/onedark.vim'
+   Plug 'dracula/vim'
+   " Plug 'joshdick/onedark.vim'
   
    " Ranger
    Plug 'francoiscabrol/ranger.vim'
@@ -80,6 +80,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
    " autocomplete
    Plug 'sirver/ultisnips'
    Plug 'neoclide/coc.nvim', {'branch': 'release'}
+   
    " Keeping up to date with master
    Plug 'neoclide/coc.nvim', {'do': 'yarn install --frozen-lockfile'}
 
