@@ -187,11 +187,11 @@ set visualbell
 " -----------------------------------------------------------------------------
 
 set expandtab                   " Expand tabs to spaces
-set autoindent smartindent      " auto/smart indent
+set autoindent "smartindent      " auto/smart indent
 set copyindent                  " copy previous indentation on auto indent
-set softtabstop=3               " Tab key results in # spaces
-set tabstop=3                   " Tab is # spaces
-set shiftwidth=3                " The # of spaces for indenting.
+set softtabstop=4               " Tab key results in # spaces
+set tabstop=4                   " Tab is # spaces
+set shiftwidth=4                " The # of spaces for indenting.
 set smarttab                    " At start of line, <Tab> inserts shift width
                                 "   spaces, <Bs> deletes shift width spaces.
 
