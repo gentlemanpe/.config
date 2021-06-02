@@ -853,7 +853,6 @@
       "sysPrefix": "/usr/local/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
       "fileHash": "56153f63424aba21f4dda2fac28aaf67b1c0a2aeaa7cbdcbd20938391336db9e75e1f830dc2a8310bb102b45fdab0076c47336cd60c87549197e4cc798dbd80e",
       "type": "Unknown",
-      "cachedEntry": true,
       "displayName": "Python 3.9.4 64-bit"
     },
     "ProposeLSBanner": false
